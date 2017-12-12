@@ -9,7 +9,7 @@
 	background-image: url(resources/images/bg/by.gif);
 	background-size: 100%;
 	background-repeat: no-repeat;
-	color: #00cc00;
+	color: #009933;
 	opacity: 1.0;
 	filter:alpha(opacity=100); /* For IE8 and earlier */
 }
@@ -27,7 +27,7 @@
 	border: 0.1em solid #ffffff;
 }
 .s0:hover{
-	border: 0.1em solid #00cc00;
+	border: 0.1em solid #009933;
 }
 .eAb, .eBy, .eSel, .ePtr{
 	background-size: 100%;
@@ -39,7 +39,7 @@
 }
 
 .eAb:hover{
-	background-color: #00cc00;
+	background-color: #009933;
 }
 
 .eSel:active{
@@ -51,7 +51,7 @@
   filter:alpha(opacity=100); /* For IE8 and earlier */
 }
 .eNb:hover{
-	border: 0.1em solid #00cc00;
+	border: 0.1em solid #009933;
 }
 
 .transition{
@@ -127,6 +127,6 @@ button.enabled{
 }
 
 button.disabled{
-	background-color: #00cc00;
+	background-color: #009933;
 }
 
