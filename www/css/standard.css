@@ -36,7 +36,7 @@ background-image: url(../../css/User-no-pic.gif);
 .ab{
 /*background-image: url(images/buttons/ButtonDefault.jpg);*/
 /*background-size: 100%; */
-background-color: #3299BB;
+background-color: #00cc00;
 color: #ffffff;
 }
 
@@ -257,7 +257,7 @@ font-size: 6em;
 /* Font color */
 .cw{
 	color: #ffffff; 
-	text-shadow: 0px 1px 1px #3299BB;
+	text-shadow: 0px 1px 1px #00cc00;
 }
 .cr{
 	color: red;
@@ -269,7 +269,7 @@ font-size: 6em;
 	color: #000000; 
 }
 .ca{
-	color: #3299BB; 
+	color: #00cc00; 
 	text-shadow: 0px 1px 1px #ffffff;
 }
 .cg{
@@ -279,7 +279,7 @@ font-size: 6em;
  
 .cd{
 /* Default color */
-color: #3299BB !important;
+color: #00cc00 !important;
 font-strength: 200;
 }
 
@@ -319,7 +319,7 @@ background-repeat: repeat-x;
 }
 .na{
 /* Thin Antah Color */
-	border: 0.1em solid #3299BB;
+	border: 0.1em solid #00cc00;
 }
 .naimg{
 	background: #ffffff url(images/bg/ba-border.gif);
@@ -339,7 +339,7 @@ background-repeat: repeat-x;
 }
 .lna{
     /* Thin Antah Color Left */
-	border-left: 0.1em solid #3299BB;
+	border-left: 0.1em solid #00cc00;
 }
 .lnc{
     /* Thin Cyan Left */
@@ -348,7 +348,7 @@ background-repeat: repeat-x;
 
 .rna{
     /* Thin Antah Color Right */
-	border-right: 0.1em solid #3299BB;
+	border-right: 0.1em solid #00cc00;
 }
 .rnc{
     /* Thin Cyan Right */
@@ -361,7 +361,7 @@ background-repeat: repeat-x;
 }
 .bka{
     /* Thin Antah Color Right */
-	border-bottom: 0.2em solid #3299BB;
+	border-bottom: 0.2em solid #00cc00;
 }
 .bnc{
     /* Thin Cyan Bottom */
@@ -374,12 +374,12 @@ background-repeat: repeat-x;
 
 .bda{
     /* Thin Cyan Bottom */
-	border-bottom: 0.05em dashed #3299BB;
+	border-bottom: 0.05em dashed #00cc00;
 }
 
 .rda{
     /* Thin Cyan Bottom */
-	border-right: 0.05em dashed #3299BB;
+	border-right: 0.05em dashed #00cc00;
 }
 
 .kk{
@@ -398,7 +398,7 @@ border: .5em solid #ffffff;
 }
 .ka{
 /* Thick Cyan Border */
-border: .2em solid #3299BB;
+border: .2em solid #00cc00;
 }
 .kr{
 /* Thick Cyan Border */
@@ -432,7 +432,7 @@ display: none;
 
  
 .rdya{
-	background: #3299BB;
+	background: #00cc00;
 	background-position: left bottom;
 	background-repeat: repeat-x;
 	background-size: 1.5em;
@@ -440,7 +440,7 @@ display: none;
 }
 
 .welcome{
-	background: #3299BB;
+	background: #00cc00;
 	background-position: left bottom;
 	background-repeat: repeat-x;
 	background-size: 2.5em;
@@ -681,7 +681,7 @@ div.CONTACT{
 }
 
 .shareClick{
-	box-shadow: 0px 0px 15px #3299BB;
+	box-shadow: 0px 0px 15px #00cc00;
 }
 .sharePageButton, .unSharePageButton{
 	float: left;

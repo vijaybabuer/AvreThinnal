@@ -92,11 +92,11 @@ em{
 }
 
 .ui-dialog-title{
-	color: #3299BB !important;
+	color: #00cc00 !important;
 	font-strength: 200;
 }
 .enroll{
-    background: #3299BB; /* For browsers that do not support gradients */	
+    background: #00cc00; /* For browsers that do not support gradients */	
     padding: 1em;
     text-align: center;
     font-size: 1em;
@@ -112,7 +112,7 @@ em{
  .containerHeader{
  	text-align: left;
  	font-size: 2em;
-	background-color: #3299BB;
+	background-color: #00cc00;
  	color: #ffffff;
  	padding: 1em 0 1em 0.25em;
 	display: none;
@@ -149,7 +149,7 @@ em{
 	    background-color: #ffffff;
 	    border: 0px;
 	    color: #333;
-	    box-shadow: 0 0 16px #3299BB;
+	    box-shadow: 0 0 16px #00cc00;
 	} .ie7 .subContainer {
 	    height: 200px;
 	} .subContainer .wrapper {
@@ -363,7 +363,7 @@ width: 50%;
 }
 
 .appHeader{
-	background-color: #3299BB;
+	background-color: #00cc00;
 	text-shadow: none;
 	color: #ffffff;
 	position: fixed;
@@ -397,7 +397,7 @@ width: 50%;
 	border: 0px;
 	text-shadow: none;
 	float: left;
-	color: #3299BB !important;
+	color: #00cc00 !important;
 }
 #containerBackButton, #showMainPageButton, .loginMenuBar, .registerMenuBar, .socialMenuBar, #palpostr-url-sec { 
 	background: rgba(0,0,0,0); 
@@ -514,7 +514,7 @@ width: 50%;
 	margin: 0px; 
 	border: 0px solid; 
 	font-size: 2em;
-	color: #3299BB !important;
+	color: #00cc00 !important;
 	font-weight: 500;
  }
  #storyItemTitle-small{ 
@@ -522,7 +522,7 @@ width: 50%;
 	margin: 0px; 
 	border: 0px solid; 
 	font-size: 1.5em;
-	color: #3299BB !important;
+	color: #00cc00 !important;
 	font-weight: 500;
  }
   #storyItemTitle{
@@ -711,7 +711,7 @@ width: 50%;
  }
 
  .activeButton{
- 	border-bottom: 2px solid #3299BB !important;
+ 	border-bottom: 2px solid #00cc00 !important;
  }
 
  #inviteFriendsDiv{
@@ -745,7 +745,7 @@ width: 50%;
  }
  
  .img-album{
- 	border: 2px solid #3299BB;
+ 	border: 2px solid #00cc00;
 	margin: 2px;
  }
  
